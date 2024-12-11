@@ -32,7 +32,7 @@ crop_details = {
     },
     # Add similar dictionaries for other crops
     'corn': {
-        'model_path': '/Users/kritika/Documents/MinorProjectFinal/Minor-Project/Detection_model/Maize_LDD_model.h5',
+        'model_path': '/Users/kritika/Documents/MinorProjectFinal/Minor-Project/Detection_model/Corn_LDD_model.h5',
         'class_labels': ['Cercospora leaf spot (Gray leaf spot)',
                 'Common rust',
                 'Northern Leaf Blight',
